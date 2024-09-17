@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anish : @anish-kompetenzen
-- 👀 I’m interested in Full Stack Webdevelopment
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on React JS & SpringBoot
 - 📫 How to reach me : anishhtc1998@gmail.com
